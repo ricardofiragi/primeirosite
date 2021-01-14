@@ -1,1 +1,1 @@
-git add .<p>o nome do site <b>primeiro site está em negrito</b></p
+<p>o nome do site <b>primeiro site está em negrito</b></p
